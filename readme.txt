@@ -85,8 +85,28 @@ docker-compose up --build
 ```
 
 
+Resumen:
 
+1. Diagrama de Arquitectura
 
+Miro Diagram:  https://miro.com/welcomeonboard/cHFOUmh1N2gvRXFNcWlLdVZtdGhzaDgyVzN5N2hSQTlrTnB0eW5aWld4cVZ5R3hMSFQ1eE12dWlLbDZBMTJhQXk1b0JzdGtPZTRjQWRCUUVxc09veWlWMUl2Vkd0RExvUVRveGxtbFJIZExiTzJ4VkJpL010aW41ZWNPRVFNZ1QhZQ==?share_link_id=80830151656
+
+2. Github repository:
+    https://github.com/jairomarinx/linktic
+
+3. Documentacion postman:
+    https://tinyurl.com/2em3xvfj
+
+4. Manejo de errores
+    IMplementados dentro de los EndPoints y documentado en postman 
+
+5.Dockerfile y Docker Compose en este repositorio 
+
+Bonus
+  Despliegue: Se encuentra despplegado en mi servidor de DigitalOcean y puesto en el subdominio
+  linktic.jairomarin.com 
+
+  
 ---
 
 ## Contacto
