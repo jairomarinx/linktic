@@ -13,3 +13,6 @@ Route::get('/user', function (Request $request) {
 
 Route::apiResource('products',ProductController::class);
 Route::apiResource('orders',OrderController::class);
+
+Route::post('/products/edit/{id}',[ProductController::class,'edit']);
+
