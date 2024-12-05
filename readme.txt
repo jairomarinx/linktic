@@ -11,4 +11,4 @@ En el correo se adjunta user/password de acceso al Servidor de despliegue.
 
 Postman Url:
 
-
+https://tinyurl.com/2em3xvfj
