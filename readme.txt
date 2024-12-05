@@ -103,9 +103,13 @@ Miro Diagram:  https://miro.com/welcomeonboard/cHFOUmh1N2gvRXFNcWlLdVZtdGhzaDgyV
 5.Dockerfile y Docker Compose en este repositorio 
 
 Bonus
-  Despliegue: Se encuentra despplegado en mi servidor de DigitalOcean y puesto en el subdominio
-  linktic.jairomarin.com 
+  *.Despliegue: Se encuentra despplegado en mi servidor de DigitalOcean y puesto en el subdominio
+    linktic.jairomarin.com 
 
+  *Excel export: http://linktic.jairomarin.com/excel-products
+                 http://linktic.jairomarin.com/excel-orders  
+
+code: ExcelController.php 
   
 ---
 
